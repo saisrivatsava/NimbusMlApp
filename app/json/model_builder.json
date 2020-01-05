@@ -1,0 +1,8 @@
+{
+    "cnn_models" : "inception_v3,mobileNet,cnn_model1,nlp",
+    "nlp_models" : "nlp_1,nlp_2,nlp_3",
+    "rnn_models" : "rnn_1,rnn_2,rnn_3",
+    "gan_models" : "gan_1,gan_2,gan_3"
+
+
+}
